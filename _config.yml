@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenhao Yu"
+  name             : "Md Sirajul Islam"
   avatar           : "profile.jpg"
-  bio              : "Ph.D Student in Computer Science and Engineering"
-  location         : "Notre Dame, IN"
+  bio              : "Ph.D Student in Computer Science"
+  location         : "Lafayette, LA"
   employer         :
   pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wyu97"
+  github           : "siabdullah4"
   google_plus      :
   keybase          :
   instagram        :
