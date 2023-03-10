@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year (2019-now) Ph.D. candidate in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), and have the fortune to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). I also work closely with [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/) from Microsoft Research. Before that, I received my bachelor degree of Computer Science and Technology at [Sichuan University](http://www.scu.edu.cn/) in 2019.
+I am a first-year (2022-now) Ph.D. candidate in Computer Science at the [University of Louisiana at Lafayette](https://louisiana.edu/), and have the fortune to be advised by [Prof. Li Chen](https://lichenut.github.io/). Before that, I received my bachelor degree of Computer Science and Technology at [Rajshahi University of Engineering and Technology](http://www.google.com/url?q=http%3A%2F%2Fwww.ruet.ac.bd%2F&sa=D&sntz=1&usg=AOvVaw05hBgdsiEuv4pq-h83lt0A) in 2017.
 
-My primary research interest lies in natural language processing and machine learning. Specifically, I am working on using structured (e.g., knowledge graph) and unstructured (e.g., retrieved rext) knowledge to enhance language representation learning for open-domain question answering, commonsense reasoning and natural language generation tasks. I am also interested in using knowledge for better domain adaptation and few-shot learning. 
+My primary research interest lies in deep learning and machine learning. 
 
-My research is generously supported by Bloomberg Ph.D. Fellowship, Notre Dame Grad School Select Fellowship, Microsoft Research and National Science Foundation. 
 
 <img src="../images/twitter.png" width="25" align=center> Check my latest post on [Twitter](https://twitter.com/wyu_nd)!
 
