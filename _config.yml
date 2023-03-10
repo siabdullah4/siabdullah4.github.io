@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenhao Yu's Homepage"
+title                    : "Md Sirajul Islam's Homepage"
 title_separator          : "-"
-name                     : &name "Wenhao Yu"
+name                     : &name "Md Sirajul Islam"
 description              : &description "Ph.D. Student"
 url                      : https://wyu97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
