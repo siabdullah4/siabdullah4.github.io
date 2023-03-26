@@ -20,17 +20,6 @@ What's New!
 
 * <img src="../images/new.png" width="25" align=center> \[2023.01\] One survey paper is accepted at [EACL 2023](https://2023.eacl.org/) multi-task learning in NLP.
 * \[2022.11\] Tutorial on **Knowledge-augmented Methods for Natural Language Processing** is accepted by [WSDM 2023](https://www.wsdm-conference.org/2023/) in Singapore!
-* \[2022.10\] Five papers are accepted by [EMNLP 2022](https://2022.emnlp.org/), on question answering, commonsense reasoning and multi-task learning!
-======
-\[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao)\]
-
-* <img src="../images/new.png" width="25" align=center> A Survey of Knowledge-Enhanced Text Generation <br>
-  **<u>W. Yu</u>**, C. Zhu, Z. Li, Z. Hu, Q. Wang, H. Ji, M. Jiang <br>
-  arXiv:2010.04389 \[[pdf](https://arxiv.org/abs/2010.04389)\] \[[reading list](https://github.com/wyu97/KENLG-Reading/blob/master/README.md)\]
-
-* Sentence-Permuted Paragraph Generation <br>
-  **<u>W. Yu</u>**, C. Zhu, T. Zhao, Z. Guo, M. Jiang <br>
-  EMNLP 2021 (long) \[[pdf](/papers/P1_Permgen_2021-1.pdf)\] \[[code](https://github.com/wyu97/permgen)\] -->
 
 <!-- Recent Talks
 ======
