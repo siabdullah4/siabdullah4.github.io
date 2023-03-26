@@ -17,7 +17,6 @@ My primary research interest lies in deep learning and machine learning. Current
 
 What's New!
 ======
-* \[2022.11\] Tutorial on **Knowledge-augmented Methods for Natural Language Processing** is accepted by [WSDM 2023](https://www.wsdm-conference.org/2023/) in Singapore!
 * \[11/11/2022\] Presented our research group demo on **Federated Learning** and **Flood Prediction** at **Science Day' 2022**.
 * \[22/08/2022\] Started **Ph.D.** journey at the **University of Louisiana at Lafayette**.
 
