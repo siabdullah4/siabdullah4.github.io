@@ -14,52 +14,27 @@ Please kindly find my [Curriculum Vitae](/files/Wenhao_CV.pdf).
 
 Education History
 ======
-* B.S. of Computer Science and Techonology, Sichuan Univerisity
-  * Aug. 2015 - Jun. 2019, GPA: 3.84/4.0
+* B.S. in Computer Science and Engineering, Rajshahi University of Engineering and Technology
+  * Mar. 2013 - Dec. 2017, GPA: 3.43/4.0
 
-* Ph.D. of Computer Science and Engineering, University of Notre Dame
-  * Aug. 2019 - present, GPA: 3.95/4.0
+* Ph.D. in Computer Science and Engineering, University of Louisiana at Lafayette
+  * Aug. 2022 - present, GPA: 4.0/4.0
 
 
 Industry Experience
 ======
 
-* Bloomberg CTO Office, New York, USA
-  * Research Intern, will start from Jun. 2023
-  * Host: Mark Dredze, David Rosenberg, Gideon Mann 
+* Dutch-Bangla Bank Limited, Dhaka, Bangladesh [April 2019 - July 2022]
+  * Senior Officer (IT) : Alternative Delivery Channel Division
+  * Working as a member of the software development team
+  * Developing and monitoring core banking applications
+  * Updating features of Mobile banking and Agent banking software 
 
-* Allen Institute for AI, Seattle, Washington, USA
-  * Research Intern from Sep. 2022 to Jan. 2023
-  * Host: Peter Clark, Ashish Sabharwal
+* Wipro Limited, Dhaka, Bangladesh [October 2018 - March 2019]
+  * Software Engineer : Enterprise Resource Planning 
+  * Performed operational and development activities in Oracle E-Business Suite Application
 
-* Microsoft Research, Redmond, Washington, USA
-  * Research Intern from Jun. 2022 to Sep. 2022
-  * Host: Dan Iter, Chenguang Zhu
-
-* Microsoft Research, Redmond, Washington, USA
-  * Research Intern from Jun. 2021 to Sep. 2021
-  * Host: Chenguang Zhu
-
-* IBM Greater China Group Lab, Beijing, China
-  * Data Scientist Intern from Jan. 2019 to Apr. 2019
-  * Tabular data extraction and representation learning
-  * Host: Minquan Gao
-
-<!-- Leadership Experience
-======
-* Arizona State University, Tempe, Arizona, USA
-  * Innovation and Leadership Program in Summer 2017
-
-* Junior Achievement (JA), Chengdu, China
-  *  -->
-
-
-Service
-======
-* Conference PC/Reviewer: ACL 2020-2023 / EMNLP 2020-2022 / NAACL 2021-2022 / AAAI 2021-2023 / IJCAI 2020-2023 / ICML 2022 / Neurips 2022 / ARR (start from Oct 2021)
-* Journal Reviewer: TKDD / IJIS / Big Data / TNNLS / WWWJ / KBS / TKDE
-
-
-<!-- Thesis
-======
-* Proposal at 05/13/2022 \[[slides](/thesis/Wenhao_ThesisProposal.pdf)\] \[[p1](/thesis/P1.pdf)\] \[[p2](/thesis/P2.pdf)\] \[[p3](/thesis/P3.pdf)\] -->
+* Summit Communications Limited, Dhaka, Bangladesh [January 2018 - September 2018]
+  * Assistant Engineer : Operations and Maintenance 
+  * Performed operational and maintenance activities of Fiber optical networking
+  * Configured different types of networking devices
