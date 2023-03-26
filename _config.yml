@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Md Sirajul Islam's Homepage"
+title                    : "Sirajul's Homepage"
 title_separator          : "-"
 name                     : &name "Md Sirajul Islam"
 description              : &description "Ph.D. Student"
@@ -86,7 +86,7 @@ author:
   location         : "Lafayette, LA"
   employer         :
   pubmed           : # ""
-  googlescholar    : "https://scholar.google.com/citations?user=fBu11ZoAAAAJ&hl=en&oi=ao"
+  googlescholar    : ""
   email            : "md-sirajul.islam1@louisiana.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/md-sirajul-islam-236b56145/"
-  orcid            : "https://orcid.org/0000-0002-4075-5980"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
