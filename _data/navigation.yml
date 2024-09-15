@@ -9,8 +9,8 @@ main:
   - title: "Services"
     url: /service/
 
- - title: "News"
+  - title: "News"
     url: /news/
     
- - title: "Awards"
+  - title: "Awards"
     url: /awards/
