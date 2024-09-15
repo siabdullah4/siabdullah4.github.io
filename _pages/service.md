@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Service"
-excerpt: "Service"
+title: "Services"
+excerpt: "Services"
 author_profile: true
 redirect_from:
   - /service/
-  - /service.md
+  - /service
 ---
 
 # Professional Services
