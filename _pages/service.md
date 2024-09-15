@@ -5,7 +5,7 @@ excerpt: "Service"
 author_profile: true
 redirect_from:
   - /service/
-  - /service.html
+  - /service.md
 ---
 
 # Professional Services
