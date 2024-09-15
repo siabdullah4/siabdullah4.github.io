@@ -12,7 +12,7 @@ I am a third-year (2022-now) Ph.D. candidate in Computer Science at the Universi
 
 My primary research interest lies in Federated Learning, Deep Learning, and Generative AI. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications.
 
-**I am actively looking for a Summer-2025 internship related to Data Science, Machine Learning, and Software engineering field.**
+**I am actively looking for a Summer 2025 internship related to Data Science, Machine Learning, and Software engineering field.**
 
 What's New!
 ======
