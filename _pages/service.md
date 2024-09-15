@@ -1,12 +1,13 @@
 ---
-permalink: /
+layout: archive
 title: "Services"
-excerpt: "Services"
+permalink: /Services/
 author_profile: true
 redirect_from:
-  - /service/
-  - /service.html
+  - /service
 ---
+
+{% include base_path %}
 
 # Professional Services
 
