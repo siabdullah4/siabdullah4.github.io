@@ -12,15 +12,6 @@ redirect_from:
 Please kindly find my [Curriculum Vitae](/files/Wenhao_CV.pdf).
 
 
-Education History
-======
-* B.S. in Computer Science and Engineering, Rajshahi University of Engineering and Technology
-  * Mar. 2013 - Dec. 2017, GPA: 3.43/4.0
-
-* Ph.D. in Computer Science and Engineering, University of Louisiana at Lafayette
-  * Aug. 2022 - present, GPA: 4.0/4.0
-
-
 Industry Experience
 ======
 
