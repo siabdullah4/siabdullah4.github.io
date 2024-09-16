@@ -5,6 +5,7 @@ author_profile: true
 redirect_from:
   - /service.html
 ---
+{% include base_path %}
 # Professional Services
 
 ## Conference PC Member/Reviewer
