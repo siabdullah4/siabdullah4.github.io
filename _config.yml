@@ -86,9 +86,9 @@ author:
   location         : "Lafayette, LA"
   employer         :
   pubmed           : # ""
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=4Xy0b0AAAAAJ&hl=en"
   email            : "md-sirajul.islam1@louisiana.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Md-Sirajul-Islam-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/md-sirajul-islam-236b56145/"
+  linkedin         : "https://www.linkedin.com/in/sirajull/"
   orcid            : ""
   pinterest        :
   soundcloud       :
