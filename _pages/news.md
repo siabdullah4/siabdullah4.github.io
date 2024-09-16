@@ -8,8 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-News
-========
 * 05/2024: Invited as **Reviewer** of **NeurIPS 2024**.
 
 * 04/2024: Received **NSF student travel grant** to attend **IPDPS 2024**.
