@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please kindly find my [Resume](/files/Wenhao_CV.pdf).
+Please kindly find my [resume](https://drive.google.com/file/d/1SJSCWHs-YaLSkBPesrCySecK7BXYebee/view?usp=sharing).
 
 Education History
 ======
