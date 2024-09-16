@@ -13,10 +13,10 @@ Please kindly find my [Resume](/files/Wenhao_CV.pdf).
 
 Education History
 ======
-* B.S. in Computer Science and Engineering, Rajshahi University of Engineering and Technology
+* B.S. in Computer Science and Engineering, Rajshahi University of Engineering and Technology, Bangladesh
   * Mar. 2013 - Dec. 2017, GPA: 3.43/4.0
 
-* Ph.D. in Computer Science and Engineering, University of Louisiana at Lafayette
+* Ph.D. in Computer Science, University of Louisiana at Lafayette, LA, USA
   * Aug. 2022 - present, GPA: 3.92/4.0
 
 Industry Experience
