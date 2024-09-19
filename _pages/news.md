@@ -8,6 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
+* 12/2023: Our paper gets accepted to IEEE IPDPS 2024. 
+* 10/2023: Invited as Reviewer of CVPR 2024.
+* 10/2023: Presented our research group demo on Federated Learning at Science Day 2023.
 * 09/2023: Passed **Ph.D. Comprehensive exams**! Officially become a Ph.D. candidate.
 * 07/2023: Conducted two lab sessions of the **2023 summer tutorial program**: Hands-on Experience with Training and Using LLMs.
 * 04/2023: Received **Academic Excellence Award** from the University of Louisiana at Lafayette.
