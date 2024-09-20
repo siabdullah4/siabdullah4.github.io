@@ -36,6 +36,15 @@ Industry Experience
   * Assistant Engineer: Operations and Maintenance 
   * Performed operational and maintenance activities of Fiber optical networking
   * Configured different types of networking devices
-  
+
+Teaching Experience
+======
+* Graduate Teaching Assistant, University of Louisiana at Lafayette
+  * CSCE 513 - Principles of Computer Communication and Network (Fall 2024)
+  * CSCE 555 - Principles of Operating System Theory (Spring 2024)
+  * INFX 450 - Systems Admin and Maintenance (Fall 2023)
+  * Machine Learning Applications and Practices (Summer 2023)
+  * INFX 321 - Network Security (Spring 2023)
+  * INFX 322 - Cyber Security Planning and Management (Fall 2022, Fall 2023) 
 
   
