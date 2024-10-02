@@ -10,6 +10,7 @@ redirect_from:
 
 ## Conference PC Member/Reviewer
 * PC Member, AAAI 2025
+* Reviewer, AISTATS 2025
 * Reviewer, ICLR 2025
 * Reviewer, NeurIPS 2024
 * Reviewer, CVPR 2024
