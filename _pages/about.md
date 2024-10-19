@@ -17,6 +17,7 @@ My primary research interest lies in Federated Learning, Deep Learning, and Gene
 
 What's New!
 ======
+* 10/2024: Presented our research group demo on Federated Learning at Science Day 2024
 * 10/2024: Invited as **Reviewer** of **AISTATS 2025**.
 * 09/2024: Invited as **Reviewer** of **Future Generation Computer Systems**.
 * 08/2024: Invited as **Reviewer** of **ICLR 2025**.
