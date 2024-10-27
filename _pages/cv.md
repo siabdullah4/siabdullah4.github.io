@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please kindly find my [resume](https://drive.google.com/file/d/1SJSCWHs-YaLSkBPesrCySecK7BXYebee/view?usp=sharing).
-
+Please kindly find my [resume](https://drive.google.com/file/d/1mdC8EmgOXpgn8tcpF0p2hedxOBEI5R_b/view?usp=sharing).
 Education History
 ======
 * B.S. in Computer Science and Engineering, Rajshahi University of Engineering and Technology, Bangladesh
