@@ -9,6 +9,8 @@ redirect_from:
 # Professional Services
 
 ## Conference PC Member/Reviewer
+* Reviewer, ICML 2025
+* Reviewer, CVPR 2025
 * PC Member, AAAI 2025
 * Reviewer, AISTATS 2025
 * Reviewer, ICLR 2025
@@ -18,6 +20,7 @@ redirect_from:
 * Subreviewer, ICA3PP 2023
   
 ## Journal Reviewer
+* Reviewer, ACM Transactions on Knowledge Discovery from Data
 * Reviewer, IEEE Transactions on Mobile Computing
 * Reviewer, IEEE Open Journal of Vehicular Technology
 * Reviewer, Future Generation Computer Systems
