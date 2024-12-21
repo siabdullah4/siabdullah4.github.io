@@ -17,6 +17,7 @@ My primary research interest lies in Federated Learning, Deep Learning, and Gene
 
 What's New!
 ======
+* 12/2024: Our paper gets accepted to **IPDPS 2025**.
 * 12/2024: Invited as **Reviewer** of **ICML 2025**.
 * 11/2024: Invited as **Reviewer** of **CVPR 2025**.
 * 11/2024: Invited as **Reviewer** of **ACM Transactions on Knowledge Discovery from Data**.
