@@ -20,6 +20,7 @@ redirect_from:
 * Subreviewer, ICA3PP 2023
   
 ## Journal Reviewer
+* Reviewer, IEEE Journal of Biomedical and Health Informatics
 * Reviewer, ACM Transactions on Knowledge Discovery from Data
 * Reviewer, IEEE Transactions on Mobile Computing
 * Reviewer, IEEE Open Journal of Vehicular Technology
