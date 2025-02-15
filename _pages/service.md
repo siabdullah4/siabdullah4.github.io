@@ -10,12 +10,14 @@ redirect_from:
 
 ## Conference PC Member/Reviewer
 * Reviewer, ICML 2025
+* Reviewer, ICCV 2025
 * Reviewer, CVPR 2025
 * PC Member, AAAI 2025
 * Reviewer, AISTATS 2025
 * Reviewer, ICLR 2025
 * Reviewer, NeurIPS 2024
 * Reviewer, CVPR 2024
+* Subreviewer, ICDCS 2025
 * Subreviewer, ICDCS 2024
 * Subreviewer, ICA3PP 2023
   
