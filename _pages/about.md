@@ -17,6 +17,7 @@ My primary research interest lies in Federated Learning, Deep Learning, and Gene
 
 What's New!
 ======
+* 02/2025: Invited as **Reviewer** of **ICCV 2025**.
 * 01/2025: Invited as **Reviewer** of **IEEE Transactions on Networking**.
 * 01/2025: Invited as **Reviewer** of **IEEE Journal of Biomedical and Health Informatics**.
 * 01/2025: Invited as **Reviewer** of **IEEE Access**.
