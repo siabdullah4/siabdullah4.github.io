@@ -7,6 +7,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 08/2024: Invited as **Program Committee member** of  **AAAI 2025**.
+* 08/2024: Invited as **Reviewer** of **IEEE Open Journal of Vehicular Technology**.
+* 07/2024: Invited as **Reviewer** of **IEEE Transactions on Mobile Computing**.
+* 06/2024: Our paper gets accepted to **ICPP 2024**.
 * 05/2024: Invited as **Reviewer** of **NeurIPS 2024**.
 * 04/2024: Received **NSF student travel grant** to attend **IPDPS 2024**.
 * 03/2024: Received **Doctoral Research and Travel Grant** from ULL to attend **IPDPS 2024**.
