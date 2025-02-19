@@ -9,6 +9,7 @@ redirect_from:
 # Professional Services
 
 ## Conference PC Member/Reviewer
+* Reviewer, NeurIPS 2025
 * Reviewer, ICML 2025
 * Reviewer, ICCV 2025
 * Reviewer, CVPR 2025
