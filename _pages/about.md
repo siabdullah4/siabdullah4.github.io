@@ -17,7 +17,7 @@ My primary research interest lies in Federated Learning, Deep Learning, and Gene
 
 What's New!
 ======
-* 02/2025: Invited as **Reviewer** of **ICCV 2025**.
+* 02/2025: Invited as **Reviewer** of **ICCV 2025 and NeurIPS 2025**.
 * 01/2025: Invited as **Reviewer** of **IEEE Transactions on Networking**.
 * 01/2025: Invited as **Reviewer** of **IEEE Journal of Biomedical and Health Informatics**.
 * 01/2025: Invited as **Reviewer** of **IEEE Access**.
@@ -30,10 +30,6 @@ What's New!
 * 09/2024: Invited as **Reviewer** of **Future Generation Computer Systems**.
 * 08/2024: Invited as **Reviewer** of **ICLR 2025**.
 * 08/2024: Received **ULL SGA International Friendship Non-Endowed Scholarship**.
-* 08/2024: Invited as **Program Committee member** of  **AAAI 2025**.
-* 08/2024: Invited as **Reviewer** of **IEEE Open Journal of Vehicular Technology**.
-* 07/2024: Invited as **Reviewer** of **IEEE Transactions on Mobile Computing**.
-* 06/2024: Our paper gets accepted to **ICPP 2024**.
   
 Contact
 ======
