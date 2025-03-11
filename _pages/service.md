@@ -24,6 +24,7 @@ redirect_from:
   
 ## Journal Reviewer
 * Reviewer, IEEE Transactions on Networking
+* Reviewer, IEEE Internet of Things Journal
 * Reviewer, IEEE Journal of Biomedical and Health Informatics
 * Reviewer, ACM Transactions on Knowledge Discovery from Data
 * Reviewer, IEEE Transactions on Mobile Computing
