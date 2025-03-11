@@ -17,6 +17,7 @@ My primary research interest lies in Federated Learning, Deep Learning, and Gene
 
 What's New!
 ======
+* 03/2025: Invited as **Reviewer** of **IEEE Internet of Things Journal**.
 * 02/2025: Awarded the **Dissertation Completion Fellowship** from ULL for the 2025-2026 academic year.
 * 02/2025: Invited as **Reviewer** of **ICCV 2025 and NeurIPS 2025**.
 * 01/2025: Invited as **Reviewer** of **IEEE Transactions on Networking**.
@@ -27,9 +28,6 @@ What's New!
 * 11/2024: Invited as **Reviewer** of **CVPR 2025**.
 * 11/2024: Invited as **Reviewer** of **ACM Transactions on Knowledge Discovery from Data**.
 * 10/2024: Presented our research group demo on **Federated Learning** at **Science Day 2024**.
-* 10/2024: Invited as **Reviewer** of **AISTATS 2025**.
-* 09/2024: Invited as **Reviewer** of **Future Generation Computer Systems**.
-* 08/2024: Invited as **Reviewer** of **ICLR 2025**.
 * 08/2024: Received **ULL SGA International Friendship Non-Endowed Scholarship**.
   
 Contact
