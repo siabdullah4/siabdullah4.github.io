@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* **Md Sirajul Islam**, Sanjeev Panta, Fei Xu, Xu Yuan, Li Chen, Nian-Feng Tzeng. “SEAFL: Enhancing Efficiency in Semi-Asynchronous Federated Learning through Adaptive Aggregation and Selective Training”. In [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-organization.html).
+* **Md Sirajul Islam**, Sanjeev Panta, Fei Xu, Xu Yuan, Li Chen, Nian-Feng Tzeng. “SEAFL: Enhancing Efficiency in Semi-Asynchronous Federated Learning through Adaptive Aggregation and Selective Training”. In [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-organization.html). [[PDF]](https://arxiv.org/pdf/2503.05755)
   
 * **Md Sirajul Islam**, Simin Javaherian, Fei Xu, Xu Yuan, Li Chen, Nian-Feng Tzeng. “FedClust: Tackling Data Heterogeneity in Federated Learning through Weight-Driven Client Clustering”. In [ICPP 2024](https://icpp2024.org/). [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3673038.3673151) [[Slides]](https://drive.google.com/file/d/1xh0FDqwGkXmkErV48P9XQKslskEd3PrG/view?usp=sharing)
   
@@ -18,5 +18,5 @@ redirect_from:
 
 * Sanjeev Panta, Jatin Patel, **Md Sirajul Islam**, Simin Javaherian, Xu Yuan, Li Chen, Nian-Feng Tzeng. “Pseudoformer: Pseudo AutoCorrelation-Attention Mechanism for Time Series Forecasting” (Under Submission).
 
-* **Md Sirajul Islam**, Fei Xu, Xu Yuan, Li Chen, Nian-Feng Tzeng. “Resource-Aware Efficient Device Scheduling in Multi-Job Federated Learning” (In Preparation).
+* **Md Sirajul Islam**, Fei Xu, Xu Yuan, Li Chen, Nian-Feng Tzeng. “HetFL: Towards Resource Heterogeneity-Aware Device Scheduling for Multi-Job Federated Learning Framework” (In Preparation).
   
