@@ -23,6 +23,7 @@ redirect_from:
 * Subreviewer, ICA3PP 2023
   
 ## Journal Reviewer
+* Reviewer, IEEE Transactions on Parallel and Distributed Systems
 * Reviewer, IEEE Transactions on Networking
 * Reviewer, IEEE Internet of Things Journal
 * Reviewer, IEEE Journal of Biomedical and Health Informatics
