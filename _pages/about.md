@@ -29,7 +29,7 @@ What's New!
 * 03/2024: Received **Doctoral Research and Travel Grant** from ULL to attend **IPDPS 2024**.
 * 02/2024: Received **travel grant** from **Bangladesh Sweden Trust Fund**.
 * 01/2024: Our paper gets accepted to **IEEE ICC 2024**.
-* 12/2023: Our paper gets accepted to IEEE IPDPS 2024.
+* 12/2023: Our paper gets accepted to **IEEE IPDPS 2024**.
   
 Contact
 ======
