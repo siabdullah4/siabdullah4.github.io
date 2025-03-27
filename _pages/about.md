@@ -17,18 +17,19 @@ My primary research interest lies in Federated Learning, Deep Learning, and Gene
 
 What's New!
 ======
-* 03/2025: Invited as **Reviewer** of **IEEE Internet of Things Journal**.
 * 02/2025: Awarded the **Dissertation Completion Fellowship** from ULL for the 2025-2026 academic year.
 * 02/2025: Invited as **Reviewer** of **ICCV 2025 and NeurIPS 2025**.
-* 01/2025: Invited as **Reviewer** of **IEEE Transactions on Networking**.
-* 01/2025: Invited as **Reviewer** of **IEEE Journal of Biomedical and Health Informatics**.
-* 01/2025: Invited as **Reviewer** of **IEEE Access**.
 * 12/2024: Our paper gets accepted to **IPDPS 2025**.
 * 12/2024: Invited as **Reviewer** of **ICML 2025**.
 * 11/2024: Invited as **Reviewer** of **CVPR 2025**.
-* 11/2024: Invited as **Reviewer** of **ACM Transactions on Knowledge Discovery from Data**.
 * 10/2024: Presented our research group demo on **Federated Learning** at **Science Day 2024**.
 * 08/2024: Received **ULL SGA International Friendship Non-Endowed Scholarship**.
+* 06/2024: Our paper gets accepted to **ICPP 2024**.
+* 04/2024: Received **NSF student travel grant** to attend **IPDPS 2024**.
+* 03/2024: Received **Doctoral Research and Travel Grant** from ULL to attend **IPDPS 2024**.
+* 02/2024: Received **travel grant** from **Bangladesh Sweden Trust Fund**.
+* 01/2024: Our paper gets accepted to **IEEE ICC 2024**.
+* 12/2023: Our paper gets accepted to IEEE IPDPS 2024.
   
 Contact
 ======
