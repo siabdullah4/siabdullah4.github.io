@@ -17,6 +17,7 @@ My primary research interest lies in Federated Learning, Deep Learning, and Gene
 
 What's New!
 ======
+* 04/2025: Officially recognized as a **PhD Candidate**.
 * 02/2025: Awarded the **Dissertation Completion Fellowship** from ULL for the 2025-2026 academic year.
 * 02/2025: Invited as **Reviewer** of **ICCV 2025 and NeurIPS 2025**.
 * 12/2024: Our paper gets accepted to **IPDPS 2025**.
