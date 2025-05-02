@@ -24,11 +24,13 @@ redirect_from:
   
 ## Journal Reviewer
 * Reviewer, IEEE Transactions on Parallel and Distributed Systems
-* Reviewer, IEEE Transactions on Networking
 * Reviewer, IEEE Internet of Things Journal
-* Reviewer, IEEE Journal of Biomedical and Health Informatics
-* Reviewer, ACM Transactions on Knowledge Discovery from Data
 * Reviewer, IEEE Transactions on Mobile Computing
+* Reviewer, IEEE Transactions on Networking
+* Reviewer, ACM Transactions on Knowledge Discovery from Data
+* Reviewer, IEEE Transactions on Artificial Intelligence
+* Reviewer, IEEE Journal of Biomedical and Health Informatics
 * Reviewer, IEEE Open Journal of Vehicular Technology
 * Reviewer, Future Generation Computer Systems
 * Subreviewer, IEEE Transactions on Computers
+
