@@ -12,11 +12,12 @@ I am a third-year (2022-now) Ph.D. candidate in Computer Science at the Universi
 
 My primary research interest lies in Federated Learning, Deep Learning, and Generative AI. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications.
 
-> **I am actively looking for a Summer 2025 internship related to Data Science, Machine Learning, and Software Engineering field. Please kindly find my [resume](https://drive.google.com/file/d/16hY7J9Lu8GT5DEeEXQkOUDhHp9Dw5oPx/view?usp=sharing).**
+> **I am actively looking for a Summer 2025 internship related to Data Science, Machine Learning, and Software Engineering. Please kindly find my [resume](https://drive.google.com/file/d/16hY7J9Lu8GT5DEeEXQkOUDhHp9Dw5oPx/view?usp=sharing).**
 
 
 What's New!
 ======
+* 05/2025: Awarded **MS** in **Computer Science** from the University of Louisiana at Lafayette.
 * 04/2025: Officially recognized as a **PhD Candidate**.
 * 02/2025: Awarded the **Dissertation Completion Fellowship** from ULL for the 2025-2026 academic year.
 * 02/2025: Invited as **Reviewer** of **ICCV 2025 and NeurIPS 2025**.
