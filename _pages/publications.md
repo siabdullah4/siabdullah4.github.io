@@ -12,7 +12,7 @@ redirect_from:
   
 * **Md Sirajul Islam**, Simin Javaherian, Fei Xu, Xu Yuan, Li Chen, Nian-Feng Tzeng. “FedClust: Tackling Data Heterogeneity in Federated Learning through Weight-Driven Client Clustering”. In [ICPP 2024](https://icpp2024.org/). [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3673038.3673151) [[Slides]](https://drive.google.com/file/d/1xh0FDqwGkXmkErV48P9XQKslskEd3PrG/view?usp=sharing)
   
-* Simin Javaherian, Sanjeev Panta, Shelby Williams, **Md Sirajul Islam**, Li Chen. “FedFair^3: Unlocking Threefold Fairness in Federated Learning”. In [ICC 2024](https://icc2024.ieee-icc.org/). [[PDF]](https://ieeexplore.ieee.org/document/10622273) [[Slides]](https://docs.google.com/presentation/d/1NFYoFL6asVf-vS7tjEXX1ciQNI-feiB-/edit?usp=sharing&ouid=114853089372464174240&rtpof=true&sd=true)
+* Simin Javaherian, Sanjeev Panta, Shelby Williams, **Md Sirajul Islam**, Li Chen. “FedFair^3: Unlocking Threefold Fairness in Federated Learning”. In [ICC 2024](https://icc2024.ieee-icc.org/). [[PDF]](https://ieeexplore.ieee.org/document/10622273) [[Slides]](https://drive.google.com/file/d/1d_K1AU6jUVdKDbd9knl8iHQa0VyaDsdr/view?usp=sharing)
   
 * **Md Sirajul Islam**, Simin Javaherian, Fei Xu, Xu Yuan, Li Chen, Nian-Feng Tzeng. “FedClust: Optimizing Federated Learning on Non-IID Data through Weight-Driven Client Clustering” (Poster Presentation). In [IPDPS 2024](https://www.ipdps.org/ipdps2024/). [[PDF]](https://www.computer.org/csdl/proceedings-article/ipdpsw/2024/646000b184/1YTsaK0P37q) [[Poster]](https://drive.google.com/file/d/19LQj8I4MjtUqHp4iG9cpQcvOG1WqIP0T/view?usp=sharing)
 
