@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year (2022-now) Ph.D. candidate in Computer Science at the University of Louisiana at Lafayette and have the fortune to be advised by [Prof. Li Chen](https://lichenut.github.io/). Before that, I received my bachelor's degree in Computer Science and Engineering at Rajshahi University of Engineering and Technology in 2017. I have more than four years of working experience in different companies.
+I am a final-year Ph.D. candidate (2022-present) in Computer Science at the University of Louisiana at Lafayette and have the fortune to be advised by [Prof. Li Chen](https://lichenut.github.io/). Before that, I received my bachelor's degree in Computer Science and Engineering at Rajshahi University of Engineering and Technology in 2017. I have over four years of work experience in various companies.
 
 My primary research interest lies in Federated Learning, Deep Learning, and Generative AI. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications.
 
