@@ -18,6 +18,7 @@ My primary research interest lies in Federated Learning, Deep Learning, and Gene
 
 What's New!
 ======
+* 08/2025: Invited as **Reviewer** of **AISTATS 2026**.
 * 05/2025: Awarded **MS** in **Computer Science** from the University of Louisiana at Lafayette.
 * 04/2025: Officially recognized as a **PhD Candidate**.
 * 02/2025: Awarded the **Dissertation Completion Fellowship** from ULL for the 2025-2026 academic year.
