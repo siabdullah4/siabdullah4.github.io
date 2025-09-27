@@ -19,4 +19,5 @@ redirect_from:
 * Sanjeev Panta, Jatin Patel, **Md Sirajul Islam**, Simin Javaherian, Xu Yuan, Li Chen, Nian-Feng Tzeng. “Pseudoformer: Pseudo AutoCorrelation-Attention Mechanism for Time Series Forecasting” (Under Submission).
 
 * **Md Sirajul Islam**, Isabelle G Chapman, N I Md Ashafuddula, Xu Yuan, Li Chen, Nian-Feng Tzeng. “FedACT: A Resource Heterogeneity-Aware Device Scheduling Framework for Concurrent Training of Multiple Federated Learning Jobs” (Under Submission).
+* N I Md Ashafuddula, **Md Sirajul Islam**, Li Chen. “CaCPT: Cascaded Feature Learning with a Cross-Plane Transformer for Multi-Task Knee MRI Diagnosis” (Under Submission).
   
