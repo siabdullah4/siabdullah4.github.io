@@ -14,7 +14,7 @@ redirect_from:
 * Reviewer, ICCV 2025
 * Reviewer, CVPR 2025
 * PC Member, AAAI 2025
-* Reviewer, AISTATS (2025 - present)
+* Reviewer, AISTATS (2025 – present)
 * Reviewer, ICLR 2025
 * Reviewer, NeurIPS 2024
 * Reviewer, CVPR (2024 – present)
