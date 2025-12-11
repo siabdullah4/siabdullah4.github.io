@@ -13,11 +13,16 @@ Please kindly find my [resume](https://drive.google.com/file/d/16hY7J9Lu8GT5DEeE
 
 Education History
 ======
+* Ph.D. in Computer Science, University of Louisiana at Lafayette, LA, USA
+  * Aug. 2022 - present, GPA: 3.93/4.0
+ 
+* M.S. in Computer Science, University of Louisiana at Lafayette, LA, USA
+  * Aug. 2022 - May 2025, GPA: 3.93/4.0
+    
 * B.S. in Computer Science and Engineering, Rajshahi University of Engineering and Technology, Bangladesh
   * Mar. 2013 - Dec. 2017, GPA: 3.43/4.0
 
-* Ph.D. in Computer Science, University of Louisiana at Lafayette, LA, USA
-  * Aug. 2022 - present, GPA: 3.92/4.0
+
 
 Industry Experience
 ======
@@ -30,11 +35,11 @@ Industry Experience
 
 * Wipro Limited, Dhaka, Bangladesh [October 2018 - March 2019]
   * Software Engineer: Enterprise Resource Planning 
-  * Performed operational and development activities in Oracle E-Business Suite Application
+  * Performed operational and development activities in the Oracle E-Business Suite Application
 
 * Summit Communications Limited, Dhaka, Bangladesh [January 2018 - September 2018]
   * Assistant Engineer: Operations and Maintenance 
-  * Performed operational and maintenance activities of Fiber optical networking
+  * Performed operational and maintenance activities of fiber-optic networking
   * Configured different types of networking devices
 
 Teaching Experience
