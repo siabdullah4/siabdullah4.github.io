@@ -18,6 +18,7 @@ My primary research interest lies in Federated Learning, AI/ML Security and Priv
 
 What's New!
 ======
+* 12/2025: Successfully passed **PhD Prospectus Exam**.
 * 09/2025: Invited as **Reviewer** of **CVPR 2026**.
 * 08/2025: Invited as **Reviewer** of **AISTATS 2026**.
 * 05/2025: Awarded **MS** in **Computer Science** from the University of Louisiana at Lafayette.
