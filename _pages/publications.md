@@ -16,8 +16,9 @@ redirect_from:
   
 * **Md Sirajul Islam**, Simin Javaherian, Fei Xu, Xu Yuan, Li Chen, Nian-Feng Tzeng. “FedClust: Optimizing Federated Learning on Non-IID Data through Weight-Driven Client Clustering” (Poster Presentation). In [IPDPS 2024](https://www.ipdps.org/ipdps2024/). [[PDF]](https://www.computer.org/csdl/proceedings-article/ipdpsw/2024/646000b184/1YTsaK0P37q) [[Poster]](https://drive.google.com/file/d/19LQj8I4MjtUqHp4iG9cpQcvOG1WqIP0T/view?usp=sharing)
 
-* Sanjeev Panta, Jatin Patel, **Md Sirajul Islam**, Simin Javaherian, Xu Yuan, Li Chen, Nian-Feng Tzeng. “Pseudoformer: Pseudo AutoCorrelation-Attention Mechanism for Time Series Forecasting” (Under Submission).
+* **Md Sirajul Islam**, Isabelle G Chapman, N I Md Ashafuddula, Xu Yuan, Li Chen, Nian-Feng Tzeng, Klara Nahrstedt. “FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources”. In [IPDPS 2026](https://www.ipdps.org/).
 
-* **Md Sirajul Islam**, Isabelle G Chapman, N I Md Ashafuddula, Xu Yuan, Li Chen, Nian-Feng Tzeng. “FedACT: A Resource Heterogeneity-Aware Device Scheduling Framework for Concurrent Training of Multiple Federated Learning Jobs” (Under Submission).
+* Sanjeev Panta, Jatin Patel, **Md Sirajul Islam**, Simin Javaherian, Xu Yuan, Li Chen, Nian-Feng Tzeng. “Pseudoformer: Pseudo AutoCorrelation-Attention Mechanism for Time Series Forecasting” (Under Submission).
+  
 * N I Md Ashafuddula, **Md Sirajul Islam**, Li Chen. “CaCPT: Cascaded Feature Learning with a Cross-Plane Transformer for Multi-Task Knee MRI Diagnosis” (Under Submission).
   
