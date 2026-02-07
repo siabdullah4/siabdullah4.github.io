@@ -18,6 +18,7 @@ My primary research interest lies in Federated Learning, AI/ML Security and Priv
 
 What's New!
 ======
+* 02/2026: Invited as **Program Committee** member of **IJCAI 2026**.
 * 12/2025: Our paper gets accepted to **IEEE IPDPS 2026**.
 * 12/2025: Successfully passed **PhD Prospectus Exam**.
 * 09/2025: Invited as **Reviewer** of **CVPR 2026**.
