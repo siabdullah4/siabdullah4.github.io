@@ -12,7 +12,7 @@ I am a final-year Ph.D. candidate (2022-present) in Computer Science at the Univ
 
 My primary research interest lies in Federated Learning, AI/ML Security and Privacy, Edge Computing, and Generative AI. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications.
 
-> **I will be on the job market for full-time academic and industry positions starting Fall 2026. Please feel free to reach out if you have potential job opportunities. Please kindly find my [resume](https://drive.google.com/file/d/1nSqks24YaCHWGmRDzrCaPe6OCe7MNwcE/view?usp=sharing).**
+> **I will be on the job market for full-time academic and industry positions starting Fall 2026. Please feel free to reach out if you have potential job opportunities. Please kindly find my [resume](https://drive.google.com/file/d/1XgWoGfHtZJ72-1DmilXZ_aeSFWaYT_oh/view?usp=sharing).**
 
 
 
