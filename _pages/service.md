@@ -9,6 +9,7 @@ redirect_from:
 # Professional Services
 
 ## Conference PC Member/Reviewer
+* Reviewer, NeurIPS 2026
 * PC Member, IJCAI 2026
 * Reviewer, NeurIPS 2025
 * Reviewer, ICML 2025
@@ -24,6 +25,7 @@ redirect_from:
 * Subreviewer, ICA3PP 2023
   
 ## Journal Reviewer
+* Reviewer, IEEE Transactions on Neural Networks and Learning Systems
 * Reviewer, IEEE Transactions on Parallel and Distributed Systems
 * Reviewer, IEEE Internet of Things Journal
 * Reviewer, IEEE Transactions on Mobile Computing
