@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please kindly find my [resume](https://drive.google.com/file/d/1fR1pSXwy9RbhiF-23_3HfslZ0bDstv48/view?usp=sharing).
+Please kindly find my [resume](https://drive.google.com/file/d/1XgWoGfHtZJ72-1DmilXZ_aeSFWaYT_oh/view?usp=sharing).
 
 Education History
 ======
