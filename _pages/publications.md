@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* **Md Sirajul Islam**, Isabelle G Chapman, N I Md Ashafuddula, Xu Yuan, Li Chen, Nian-Feng Tzeng, Klara Nahrstedt. “FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources”. In [IPDPS 2026](https://www.ipdps.org/).
+* **Md Sirajul Islam**, Isabelle G Chapman, N I Md Ashafuddula, Xu Yuan, Li Chen, Nian-Feng Tzeng, Klara Nahrstedt. “FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources”. In [IPDPS 2026](https://www.ipdps.org/). [[PDF]](https://arxiv.org/pdf/2605.00011) [[Slides]](https://drive.google.com/file/d/15dxFsMSKNIhl73tVLjCHwJsscdC4_99c/view?usp=sharing)
   
 * **Md Sirajul Islam**, Sanjeev Panta, Fei Xu, Xu Yuan, Li Chen, Nian-Feng Tzeng. “SEAFL: Enhancing Efficiency in Semi-Asynchronous Federated Learning through Adaptive Aggregation and Selective Training”. In [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-organization.html). [[PDF]](https://arxiv.org/pdf/2503.05755) [[Slides]](https://drive.google.com/file/d/1TBxkTSD--l4g3YQg1juBuPWNGIGoPQB3/view?usp=sharing)
   
