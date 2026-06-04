@@ -18,7 +18,7 @@ My primary research interest lies in Federated Learning, AI/ML Security and Priv
 
 What's New!
 ======
-* 06/2026: Selected as a participant for the **NSF-supported CyberStar Workshop** (June 22–24, 2026).
+* 06/2026: Selected as a participant for the **NSF-funded CyberStar Workshop** (June 22–24, 2026).
 * 05/2026: Awarded **Graduate Student Organization Travel Grant** to attend IPDPS 2026.
 * 03/2026: Invited as **Reviewer** of **NeurIPS 2026**.
 * 03/2026: Invited as **Reviewer** of **IEEE Transactions on Neural Networks and Learning Systems**.
