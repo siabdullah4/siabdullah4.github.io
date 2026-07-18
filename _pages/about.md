@@ -18,6 +18,8 @@ My primary research interest lies in Federated Learning, AI/ML Security and Priv
 
 What's New!
 ======
+* 07/2026: Accepted an **Assistant Professor** position at **Florida Polytechnic University**, starting Fall 2026.
+* 07/2026: Successfully defended my **Ph.D. dissertation** 🎓. Officially Dr. Islam!
 * 06/2026: Selected as a participant for the **NSF-funded CyberStar Workshop** (June 22–24, 2026).
 * 05/2026: Awarded **Graduate Student Organization Travel Grant** to attend IPDPS 2026.
 * 03/2026: Invited as **Reviewer** of **NeurIPS 2026**.
