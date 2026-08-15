@@ -39,7 +39,7 @@ What's New!
   
 Contact
 ======
-* Email: md-sirajul.islam1@louisiana.edu
-* Office: James R. Oliver, Room 232
-* Location: University of Louisiana at Lafayette, LA, 70504
+* Email: mdsirajulislam@floridapoly.edu
+* Office: IST-2033
+* Location: Florida Polytechnic University
 
