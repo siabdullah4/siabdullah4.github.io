@@ -40,6 +40,6 @@ What's New!
 Contact
 ======
 * Email: mdsirajulislam@floridapoly.edu
-* Office: IST-2033
+* Office: BARC-1102
 * Location: Florida Polytechnic University
 
